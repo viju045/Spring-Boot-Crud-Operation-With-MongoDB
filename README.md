@@ -1,4 +1,4 @@
-This application is checking for Spring Application with MangoDB.
-Some Api created and hit on postman through postman add a value into the Mango and Studio 3T table.
+This application is configure of Spring-Boot with MangoDB.
+Some Api created and hit on postman through postman add a value And get a value into the Mango and Studio 3T table.
 
 # Spring-Boot-Crud-Operation-With-MongoDB
